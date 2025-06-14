@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/c/colorvision.png",COLOR VISION
+https://live.eu-north-1b.cf.dmcdn.net/sec2(TY7Py7uLyR5YX2D1pci9mcbYriusJneKTw6FzdCq4_jrdqDaMTZ5axScMX5rHjZe9E2RAFO6mwEl2kECb6xJNBg9r0rGvkKZIc1qvpCmyw4MUpkw-UsYC5vE_9lvisb8)/dm/3/x7gy059/d/live-480.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/t/telesistemacanal11.png",TELESISTEMA CANAL 11
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(mxLo-hAQKLfnuR-jjo7tth-gWLpzHDq09alH4pdpuktHcYXV71KcVN6SiV1SgxsQjl82j-bL4qX6e7KIIuNlgvSVnxDUFgWkacwSpClFuXH8NE-MHTcmWbghbhro78yb)/cloud/3/x80ac48/d/live-720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/c/canaldirectvsports2.png",Canal DirecTV Sports 2
+https://laisa.crackstreamslivehd.com/dsports2/tracks-v1a1/mono.m3u8?ip=148.255.129.2&token=8df113c6d099e7af522acdc49f9b259dfc462b0c-13-1749950190-1749917790
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/c/canalespn1.png",Canal ESPN 1
+https://8c51.crackstreamslivehd.com/espn/tracks-v1a1/mono.m3u8?ip=148.255.129.2&token=afdb5cc30bd4788cce1982d139933ddcb43d31fe-e4-1749950387-1749917987
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/c/canalespn2.png",Canal ESPN 2
+https://c2nvdxq.fubohd.com/espn2ar/mono.m3u8?token=1ca58b623cc43401c78ac6b031975839a3778277-25-1749944616-1749926616
